@@ -1,0 +1,16 @@
+outputs
+.vscode
+__pycache__
+wandb
+myenv
+dataset/data
+bash_supercomputer.sh
+scripts_supercomputer
+dataset/MMHOME-1-Dataset
+dataset/MMHOME-2-Dataset
+dataset/MMOffice-Dataset
+feature_extraction
+models/vivit/weight
+yolov10b.pt
+.d*
+*.out

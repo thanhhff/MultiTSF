@@ -1,0 +1,14 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 python main.py \
+--exp_name Proposed_Method \
+--model_name CNN2D_Transformer \
+--video_encoder vit_small_patch32_224.augreg_in21k_ft_in1k \
+--fusion_type max \
+--wandb online \
+--len_feature 384 \
+--num_epochs 300 \
+--num_segments 70 \
+--batch_size 12 \
+--num_workers 12 \
+--inference_only \
+--load_weight \
+--data_path dataset/MultiSensor-Home
