@@ -212,9 +212,9 @@ def main():
     set_seed(config)
 
     ### Wandb Initialization
-    wandb.login(key='be11a63e61b81765d8f48a9af2ca7cee294be114')
-    wandb.init(entity="thanhhff", 
-               project="MM-HOME-ICME", 
+    wandb.login(key='#YOUR_KEY')
+    wandb.init(entity="#YOUR_ACCOUNT", 
+               project="#YOUR_PROJECT", 
                group=args.model_name,
                name=args.exp_name, 
                config=config, 
