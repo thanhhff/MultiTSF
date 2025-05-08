@@ -1,6 +1,6 @@
 ## MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion
-
-[[paper](https://www.arxiv.org/abs/2504.02287)] [[short version (arXiv)](https://www.arxiv.org/pdf/2504.02279)]
+![Official Implementation](https://img.shields.io/badge/Official-Implementation-brightgreen)
+[![ArXiv](https://img.shields.io/badge/arXiv-2504.02287-red)](https://www.arxiv.org/abs/2504.02287)
 
 This work was accepted at the 19th IEEE International Conference on Automatic Face and Gesture Recognition (FG2025).
 
