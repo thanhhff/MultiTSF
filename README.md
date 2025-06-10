@@ -2,7 +2,7 @@
 ![Official Implementation](https://img.shields.io/badge/Official-Implementation-brightgreen)
 [![ArXiv](https://img.shields.io/badge/arXiv-2504.02287-red)](https://www.arxiv.org/abs/2504.02287)
 
-This work was accepted at the 19th IEEE International Conference on Automatic Face and Gesture Recognition (FG2025).
+This work was presented at the 19th IEEE International Conference on Automatic Face and Gesture Recognition (FG2025). **Best Student Paper Award**.
 
 **Authors:** [Trung Thanh Nguyen](https://scholar.google.com/citations?user=QSV452QAAAAJ), [Yasutomo Kawanishi](https://scholar.google.com/citations?user=Tdfw6WMAAAAJ), [Vijay John](https://scholar.google.co.jp/citations?user=Wv71RXYAAAAJ), [Takahiro Komamizu](https://scholar.google.com/citations?user=j4n_V44AAAAJ), [Ichiro Ide](https://scholar.google.com/citations?user=8PXJm98AAAAJ)
 
