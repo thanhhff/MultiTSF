@@ -31,3 +31,14 @@ To perform inference, use the following command:
 ```
     bash ./scripts/infer.sh
 ```
+
+## 📄 Citation
+```
+@inproceedings{nguyen2025multisensor,
+  author    = {Trung Thanh Nguyen and Yasutomo Kawanishi and Vijay John and Takahiro Komamizu and Ichiro Ide},
+  title     = {MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion},
+  booktitle = {Proceedings of the 19th IEEE International Conference on Automatic Face and Gesture Recognition},
+  year      = {2025},
+  note      = {Best Student Paper Award}
+}
+```
