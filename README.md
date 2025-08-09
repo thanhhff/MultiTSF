@@ -51,3 +51,6 @@ To perform inference, use the following command:
   note      = {Best Student Paper Award}
 }
 ```
+
+## Acknowledgment
+This work was partly supported by Japan Society for the Promotion of Science (JSPS) KAKENHI JP21H03519 and JP24H00733.
