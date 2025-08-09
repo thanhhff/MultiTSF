@@ -10,6 +10,8 @@ This work was presented at the 19th IEEE International Conference on Automatic F
 ## Introduction
 This repository contains the implementation of MultiTSF on the MultiSensor-Home dataset.
 
+- Download dataset: https://huggingface.co/datasets/thanhhff/MultiSensor-Home1/
+
 ## Environment
 
 The Python code is developed and tested in the environment specified in `requirements.txt`.
