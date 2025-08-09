@@ -12,6 +12,13 @@ This repository contains the implementation of MultiTSF on the MultiSensor-Home 
 
 - Download dataset: https://huggingface.co/datasets/thanhhff/MultiSensor-Home1/
 
+A simple way to download the dataset:
+```
+# Make sure hf CLI is installed: pip install -U "huggingface_hub[cli]"
+hf download thanhhff/MultiSensor-Home1 --repo-type=dataset --local-dir dataset 
+```
+
+
 ## Environment
 
 The Python code is developed and tested in the environment specified in `requirements.txt`.
